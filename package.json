@@ -1,0 +1,15 @@
+{
+  "name": "mahrio-ir-receiver",
+  "version": "1.0.0",
+  "description": "simple test app for ir receiver",
+  "main": "index.js",
+  "dependencies": {
+    "lirc_node": "^0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
